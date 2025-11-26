@@ -1,0 +1,25 @@
+{
+  "name": "projeto-treino-v2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/wesleyafonsogomes/projeto-treino-v2#readme",
+  "bugs": {
+    "url": "https://github.com/wesleyafonsogomes/projeto-treino-v2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyafonsogomes/projeto-treino-v2.git"
+  },
+  "license": "ISC",
+  "author": "Wesley Afonso",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
